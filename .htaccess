@@ -1,1 +1,3 @@
- 
+RewriteEngine On
+
+RewriteRule ^f346b62f7442.html trash/f346b62f7442.html [L]
